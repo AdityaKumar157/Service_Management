@@ -1,5 +1,5 @@
 package district_master;
 
-public demo {
+public class demo {
 
 }
